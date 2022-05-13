@@ -1,0 +1,61 @@
+.block3-text {
+    margin-top: 20%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    padding-right: 5%;
+    margin-bottom: 5%;
+}
+
+.block3-text h2 {
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.block3-text a {
+    margin-right: 5px;
+    color: #FB8F1D;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20%;
+}
+
+.card {
+    position: relative;
+}
+
+
+.card1-text {
+    position: absolute;
+    left: 0;
+    top: 85%;
+    width: 120px;
+    height: 56px;
+    border-radius: 0px 6px 0px 0px;
+    background: #fff;
+}
+
+.card1-text h3 {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 17px;
+    
+    line-height: 25px;
+}
+
+.card1-text p {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    color: #80918E;
+}

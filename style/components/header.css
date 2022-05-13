@@ -1,0 +1,94 @@
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.header-links {
+    width: 757px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-links a {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #B8BECD;
+    text-transform: capitalize;
+}
+
+.header-menu span {
+    color: #000;
+    font-weight: 600;
+}
+
+.header-menu span:hover {
+    color: #FB8F1D;
+}
+
+.header-menu a:hover {
+    color: #FB8F1D;
+}
+
+
+.sign {
+    width: 132;
+}
+
+.login {
+    width: 132px;
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.login a {
+    text-transform: capitalize;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #FB8F1D;
+}
+
+.login:hover {
+    background: #FB8F1D;
+}
+
+.login:hover a {
+    color: #fff;
+}
+
+.buttons {
+    display: flex;
+}
+
+.btn {
+    height: 45px;
+    width: 132px;
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    background: #fff;
+    text-align: center;
+    margin-left: 18px;
+}
+
+.btn a {
+    text-transform: capitalize;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #FB8F1D;
+}
+
+.btn:hover {
+    background: #FB8F1D;
+}
+
+.btn:hover a {
+    color: #fff;
+}

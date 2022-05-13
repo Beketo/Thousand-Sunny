@@ -1,0 +1,70 @@
+.block1 {
+    display: flex;
+}
+
+.block1-text h1 {
+    margin-top: 105px;
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.block1-text>p {
+    margin-top: 74px;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.underline {
+    margin-top: 21px;
+    border-bottom: 2px solid black;
+    width: 32px;
+}
+
+.thousand {
+    margin-top: 72px;
+    margin-right: -6%;
+}
+
+.block1-buttons {
+    margin-top: 48px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 51px;
+}
+
+.menu-block1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 0.8px solid #AFB0B9;
+    border-radius: 6px;
+    width: 200px;
+    height: 52px;
+    margin: 0px 30px 30px 0px;
+}
+
+
+.explore-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FB8F1D;
+    color: #fff;
+    font-family: 'Mulish';
+    font-weight: 700;
+    font-size: 17px;
+    border: 0.8px solid #FB8F1D;
+    border-radius: 6px;
+    width: 200px;
+    height: 52px;
+    margin: 0px 30px 30px 0px;
+}
+
+
+.explore-button:hover {
+    background: #fff;
+    color: #FB8F1D;
+    border: 0.8px solid #FB8F1D;
+}

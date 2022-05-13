@@ -1,0 +1,50 @@
+.block2 {
+    margin-top: 15%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+.block2>img {
+    margin-left: -5%;
+}
+
+.block2-text {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.block2-text h2 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.block2-text p {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.block2-button {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FB8F1D;
+    color: #fff;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 60px;
+    border: 0.8px solid #FB8F1D;
+    border-radius: 6px;
+    width: 170px;
+    height: 52px;
+}
+
+.block2-button:hover {
+    background: #fff;
+    color: #FB8F1D;
+    border: 0.8px solid #FB8F1D;
+}

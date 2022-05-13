@@ -1,0 +1,17 @@
+/* all imports */
+@import url(vendor/reset.css);
+@import url(components/header.css);
+@import url(components/base.css);
+@import url(components/block1.css);
+@import url(components/block2.css);
+@import url(components/block3.css);
+@import url(components/block4.css);
+@import url(components/block5.css);
+@import url(components/block6.css);
+@import url(components/block7.css);
+
+/* import font family */
+
+/* import font family: Inter */
+/* font family "Mulish" */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Mulish:wght@300;400;700&family=Playfair+Display:wght@700&display=swap');
